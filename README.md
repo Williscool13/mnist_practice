@@ -17,5 +17,4 @@ Could be better, but:
 
 
 Cost after 200 iteraions is: 6.864248
-
 Train Accuracy: 0.82778573
