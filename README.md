@@ -11,3 +11,11 @@ Hi, I am William and this is my first GitHub post, where I use the MNIST dataset
 - Tensorflow is the primary framework (imported keras though didn't use it
 - I did not apply a convolutional neural network
 - Dev / Test set verification is not (yet) implemented
+
+
+Could be better, but:
+
+
+Cost after 200 iteraions is: 6.864248
+
+Train Accuracy: 0.82778573
