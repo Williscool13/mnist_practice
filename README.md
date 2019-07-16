@@ -16,5 +16,5 @@ Hi, I am William and this is my first GitHub post, where I use the MNIST dataset
 Could be better, but:
 
 
-Cost after 200 iteraions is: 6.864248
+Cost after 200 iteraions is: 6.864248 
 Train Accuracy: 0.82778573
