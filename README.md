@@ -1,8 +1,7 @@
 # mnist_practice
 First (mostly) self written code to analyse MNIST dataset using tensorflow
 
-I say mostly because the structure and the commands are often similar to the ones provided by professor Andrew Ng's coursera course about tensorflow
-Though a good portion was written by myself
+I say mostly because the structure and the commands are often similar to the ones provided by professor Andrew Ng's coursera course about tensorflow, though a good portion was written by myself
 
 #The py file is just a copy paste of the jupyter notebook file
 
